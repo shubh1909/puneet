@@ -1,0 +1,40 @@
+ #first{
+     background-color: rgb(36, 36, 70);
+     padding: 2% 0% 2% 3%;
+ }
+ .scan{
+     color: rgb(54, 91, 160);
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ .fast{
+     color: rgb(151, 167, 197);
+ }
+ .uk{
+     font-size: 20%;
+     color:rgb(151, 167, 197) ;
+ }
+ #second{
+   background-color:  rgb(36, 36, 70);
+   padding-top:3% ;
+   padding-left: 3%;
+   padding-bottom: 5%;
+ }
+ .contents{
+     padding-bottom: 5%;
+ }
+.pic{
+    border-radius: 100%;
+    width: 50%;
+}
+.info1{
+    color: cornflowerblue;
+}
+#third{
+    background-color:  rgb(86, 86, 136);
+    padding: 2% 0% 2% 3% ;
+    color: white;
+}
+.info2{
+    padding-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
